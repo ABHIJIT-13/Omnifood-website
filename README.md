@@ -1,2 +1,2 @@
 # Omnifood-website
-A website of an food delivery service company.
+A website for a food delivery service company.
